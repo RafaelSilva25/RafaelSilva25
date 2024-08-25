@@ -49,8 +49,8 @@ Sou Engenheiro de dados e Desenvolvedor de sistemas.
 ## Conecte-se Comigo
 
 <p align="center">
-  <a href="mailto:rafael.rsilva25@outlook.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <a href="mailto:rafael.rsilva25@outlook.com" alt="Outlook">
+  <img src="https://img.shields.io/badge/Outlook-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafael.rsilva25@outlook.com" /></a>
 
   <a href="https://www.linkedin.com/in/rafael-rodrigues-da-silva-42a494190/" alt="Linkedin">
   <img src="https://img.shields.io/badge/Rafael%20Rodrigues%20da%20Silva-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-rodrigues-da-silva-42a494190/" /></a>
